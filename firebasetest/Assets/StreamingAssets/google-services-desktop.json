@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "31604170122",
+    "firebase_url": "https://buildtest-fa23b-default-rtdb.firebaseio.com",
+    "project_id": "buildtest-fa23b",
+    "storage_bucket": "buildtest-fa23b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31604170122:ios:6a8007f74b419513253c73",
+        "android_client_info": {
+          "package_name": "com.427harinn.firebasetest"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfqTYzqYT6hkeXrWUZBiSpxDFo63UQWuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31604170122-1lktlpbpg8ng6b9tdfvu33c5js9jj9i2.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
